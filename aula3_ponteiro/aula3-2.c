@@ -1,3 +1,5 @@
+// é possivel atribuir NULL a um ponteiro que ainda nao esta apontando pra nada: *p = NULL; ele nao fica com lixo de memoria. podendo usar um if else pra ver se o enderenco dele é NULL: if (p == NULL){}.....
+
 #include <stdio.h>
 
 int main(){
