@@ -1,3 +1,9 @@
+# executáveis
 *.exe
-*.o
 *.out
+
+# objetos
+*.o
+
+# outros
+*.log
